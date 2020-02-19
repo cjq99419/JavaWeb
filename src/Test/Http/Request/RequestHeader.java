@@ -1,4 +1,4 @@
-package Test.Http;
+package Test.Http.Request;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
